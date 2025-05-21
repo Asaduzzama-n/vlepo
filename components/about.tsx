@@ -65,12 +65,7 @@ export function About() {
             A Next-Generation Prepaid Livestreaming Platform
           </h2>
           <p className="text-lg text-gray-300 mb-8">
-            Unlike traditional streaming models based on subscriptions or
-            donations, Vlepo allows users to secure access to individual
-            livestreams in advance, creating a clear, commitment-based
-            environment. Whether it's a masterclass, a concert, a performance,
-            or a private event, every session is paid upfront—guaranteeing value
-            for creators and intentional participation from viewers.
+            Unlike traditional streaming models based on subscriptions or donations, Vlepo allows users to secure access to individual livestreams in advance, creating a clear, commitment-based environment. Whether it's a masterclass, a concert, a performance, or a private event, every session is paid upfront—guaranteeing value for creators and intentional participation from viewers.
           </p>
         </motion.div>
 

@@ -119,6 +119,14 @@ export function Footer() {
           </div>
         </div>
 
+        <div className="mb-6">
+          <h3 className="text-lg font-semibold mb-3">Our Mission</h3>
+          <p className="text-gray-400">
+            Reshaping the livestreaming economy through a prepaid model that
+            prioritizes fairness, commitment, and value.
+          </p>
+        </div>
+
         <div className="text-center mt-8">
           <p className="text-gray-500 text-sm">
             &copy; {new Date().getFullYear()} Vlepo. All rights reserved.

@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const apiClient = axios.create({
-  baseURL: "http://10.0.80.49:6002/api/v1",
+  baseURL: "https://www.api.evlepo.com/api/v1",
   headers: {
     "Content-Type": "application/json",
   },
